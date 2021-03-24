@@ -17,7 +17,7 @@ module.exports = (newBookAppToAdmin) => {
 
   const mailOptions = {
 
-    from: '"andesproadventures.com"<info@andesproadventures.com>',
+    from: '"penguinscleaning.ca"<sales@penguinscleaning.ca>',
     to: newBookAppToAdmin.email,
     subject: newBookAppToAdmin.asunto,
     html: `<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -71,7 +71,7 @@ module.exports = (newBookAppToAdmin) => {
                                                                       <tr>
                                                                      <td align="center" width="100%">
                                                                         
-                                                                            <img src="https://www.andesproadventures.com/assets/media/book/logo.png"  border="0" alt="" / >
+                                                                            <img src="https://www.penguinscleaning.ca/assets/assetspenguins/images/logo.png"  border="0" alt="" / >
                                                                         </td>
                                                                      </td>
                                                                    
@@ -88,7 +88,7 @@ module.exports = (newBookAppToAdmin) => {
                                                                   <tr>
                                                                      <td align="center"  style="width: 50%;">
                                                                         
-                                                                    <img src="https://www.andesproadventures.com/assets/media/book/newBooking.png" border="0" alt="" / >
+                                                                    <img src="https://www.penguinscleaning.ca/assets/assetspenguins/images/logo.png" border="0" alt="" / >
                                                                         </td>
                                                                      </td>
                                                                     
